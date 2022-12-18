@@ -13,7 +13,7 @@
 #### Profile Visits
 
   <p align="left">
-    <img width="230px" src="https://profile-counter.glitch.me/Muzmmil207/count.svg" />
+    <img width="230px" src="https://profile-counter.glitch.me/dev-fahim/count.svg" />
   </p>
 
 <!---
